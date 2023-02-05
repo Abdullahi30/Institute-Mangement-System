@@ -1,6 +1,6 @@
-import 'package:brain_school/components/custom_buttons.dart';
-import 'package:brain_school/constants.dart';
-import 'package:brain_school/screens/home_screen/home_screen.dart';
+import 'package:Institute-Mangement/components/custom_buttons.dart';
+import 'package:Institute-Mangement/constants.dart';
+import 'package:Institute-Mangement/screens/home_screen/home_screen.dart';
 import 'package:flutter/material.dart';
 import 'package:sizer/sizer.dart';
 
