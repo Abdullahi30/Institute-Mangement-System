@@ -1,5 +1,5 @@
-import 'package:brain_school/screens/login_screen/login_screen.dart';
-import 'package:brain_school/screens/splash_screen/splash_screen.dart';
+import 'package:Institute-Mangement/screens/login_screen/login_screen.dart';
+import 'package:Institute-Mangement/screens/splash_screen/splash_screen.dart';
 import 'package:flutter/cupertino.dart';
 import 'screens/assignment_screen/assignment_screen.dart';
 import 'screens/datesheet_screen/datesheet_screen.dart';
