@@ -1,4 +1,4 @@
-# brain_school
+# Institute-Mangement-System
 
 school app for students
 
