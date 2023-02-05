@@ -1,4 +1,4 @@
-# Institute-Mangement-System
+# Institute-Mangement
 
 school app for students
 
