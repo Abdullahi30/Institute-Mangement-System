@@ -1,8 +1,8 @@
-import 'package:brain_school/constants.dart';
-import 'package:brain_school/screens/assignment_screen/assignment_screen.dart';
-import 'package:brain_school/screens/datesheet_screen/datesheet_screen.dart';
-import 'package:brain_school/screens/fee_screen/fee_screen.dart';
-import 'package:brain_school/screens/my_profile/my_profile.dart';
+import 'package:Institute-Mangement/constants.dart';
+import 'package:Institute-Mangement/screens/assignment_screen/assignment_screen.dart';
+import 'package:Institute-Mangement/screens/datesheet_screen/datesheet_screen.dart';
+import 'package:Institute-Mangement/screens/fee_screen/fee_screen.dart';
+import 'package:Institute-Mangement/screens/my_profile/my_profile.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_svg/svg.dart';
 import 'package:sizer/sizer.dart';
